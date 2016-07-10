@@ -1,0 +1,10 @@
+1. b.yarn
+2. b.put
+3. a.get
+4. a.cat
+5. c.ls
+6. a.rm
+7. d.client
+8. d HDFS
+9. d.core
+10. a.NoSql
